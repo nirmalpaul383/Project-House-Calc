@@ -12,16 +12,21 @@ About app compatibility:
           Although you can change it and rebuild it for best compatibality on other device via source files.
           This is an open source project(originally made by me N Paul) and anybody can view,modify or rebuild it.
 About source project:
-          This application is made by Tasker (https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) and by Tasker app factory (https://play.google.com/store/apps/details?id=net.dinglisch.android.appfactory ).
+          This application is made with Tasker (https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
+          and with Tasker app factory (https://play.google.com/store/apps/details?id=net.dinglisch.android.appfactory ).
 
-          To install and run 'House Calc' you will 'not need' any of this application. However if you want to 'view or modify' source file you 'will need' Tasker application and if you want to 'export your own modification' then you 'will need both' Tasker and its extension app Tasker app factory.
+          To install and run 'House Calc' you will 'not need' any of this application. However if you want to 'view or modify'
+          source file you 'will need' Tasker application and if you want to 'export your own modification' then you 'will need
+          both' Tasker and its extension app Tasker app factory.
 
 Here is a directory and file guide:
    there are 3 folder
           (1) "Apk file" folder [contains premade/exported 'House Calc.apk' android application file]
 
-          (2) "Assets" folder [contains several assets(pictures) files for the project (mainly guide pictures and logo/icon for the application) and you can even modify them via photoshop.]
+          (2) "Assets" folder [contains several assets(pictures) files for the project (mainly guide pictures and logo/icon
+          for the application) and you can even modify them via photoshop.]
 
-          (3)"Project Source" folder [contains main project file. Download it and import it to the tasker app, modify or view it and enjoy...]
+          (3)"Project Source" folder [contains main project file. Download it and import it to the tasker app, modify or view
+          it and enjoy...]
 
 If you want to support please like my facebook page https://www.facebook.com/a.new.way.Technical/
