@@ -1,7 +1,6 @@
 # Project-House-Calc
-House Calc is an open source "income from house property calculator" based on the Indian income tax law.
 About House Calc:
-          House Calc is a "income from house property calculator" based on the Indian income tax law.
+          House Calc is an open source "income from house property calculator" based on the Indian income tax law.
 Note:
           This calculator is made just only for publicly and quickly calculate the 'basic'
           taxation under 'income from house property head' in India.
